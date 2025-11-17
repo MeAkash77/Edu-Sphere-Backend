@@ -94,7 +94,7 @@ A full-featured online learning platform built using **Node.js**, **Express.js**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/NiharMondal/edu-sphere-backend
+git clone https://github.com/MeAkash77/Edu-Sphere-Backend
 cd edu-sphere-backend
 ```
 
