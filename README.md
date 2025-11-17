@@ -126,7 +126,6 @@ npm run dev
 
 ## 🙋‍♂️ Author
 
-Nihar Mondal
+Akash
 
-Feel free to connect or contribute to the project!  
-GitHub: https://github.com/NiharMondal
+Feel free to connect or contribute to the project!
